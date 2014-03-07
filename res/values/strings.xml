@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loto brojevi plus chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sestod45">Lutrija 6 od 45</string>
+    <string name="sedamod39">Lutrija 7 od 39</string>
+    <string name="gumb_generiraj">Generiraj</string>
+    
+    <!-- http://developer.android.com/training/basics/firstapp/building-ui.html -->
+    <string name="edit_message">Unesi poruku</string>
+    <string name="button_send">Salji</string>
+    <string name="title_activity_display_message">Poruka koju si upisao</string>
+</resources>
